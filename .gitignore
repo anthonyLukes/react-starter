@@ -2,3 +2,5 @@
 /src/client/public/bundle.js
 /src/client/public/bundle.css
 /src/client/npm-debug.log
+/src/client/public/bundle.css.map
+/src/client/public/bundle.js.map
