@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///webpack:///src/client/app/src/client/app/index.scss"],"names":[],"mappings":"AAEA;EACI,gCAHmB,EAItB","file":"bundle.css","sourcesContent":["$mycolor: rebeccapurple;\n\nbody {\n    background-color: $mycolor;\n}\n\n\n/** WEBPACK FOOTER **\n ** webpack:///src/client/app/src/client/app/index.scss\n **/"],"sourceRoot":""}
